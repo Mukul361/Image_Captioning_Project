@@ -11,6 +11,8 @@ Example: If we give below image as input.
 Our model will generate description of this image as below:
 “two men are playing soccer”
 
+Training Data: Flickr-8K
+
 Concepts used: 
 1.	Image processing
 2.	Convolutional neural networks
