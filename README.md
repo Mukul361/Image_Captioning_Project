@@ -20,6 +20,7 @@ Concepts used:
 6.	Recurrent neural networks
 7.	LSTM
 8.	Deep learning
+9.	Multi layer perceptron
 
 How to use: Put images for which we want to generate captions in Images folder. Then Run Caption_it file in jupyter-notebook. At end, all images will be printed with their descriptions.
 
